@@ -10,7 +10,7 @@ export class AuthService {
   apiUrl = environment.API_URL;
   private http = inject(HttpClient);
 
-  constructor() {}
+  constructor() { }
 
   login(email: string, password: string) {
     return this.http.post(`${this.apiUrl}/api/v1/auth/login`, {

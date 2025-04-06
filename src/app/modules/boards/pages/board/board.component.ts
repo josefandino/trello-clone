@@ -90,7 +90,7 @@ export class BoardComponent {
         {
           id: '10',
           title: 'Lab Angular: Optimización Web con Lighthouse y SSR',
-          description: 'En este laboratorio entrenarás para tu primer día de trabajo como Angular Developer. Nicolas Molina te entregará una landing page hecha con Angular. Tu misión, si decides aceptarla, será optimizar las dependencias, animaciones y tiempo de carga, además de transformar el proyecto de Single Page Application (SPA) a Server Side Rendering (SSR). ¿Aceptas el reto, Platzinauta?'
+          description: 'En este laboratorio entrenarás para tu primer día de trabajo como Angular Developer. Nicolas Molina te entregará una landing page hecha con Angular. Tu misión, si decides aceptarla, será optimizar las dependencias, animaciones y tiempo de carga, además de transformar el proyecto de Single Page Application (SPA) a Server Side Rendering (SSR). ¿Aceptas el reto, WebSysFaninauta?'
         },
         {
           id: '11',
@@ -135,7 +135,7 @@ export class BoardComponent {
         {
           id: '17',
           title: 'Accesibilidad y Rendimiento',
-          description: 'Domina el consumo de API REST con JavaScript. Aprende a optimizar el tiempo de carga de tu proyecto PlatziMovies. Crea loading skeletons para mejorar la UX de tu aplicación, implementa scroll infinito y usa Local Storage para aumentar la velocidad de respuesta de tu aplicación junto a tu profesor JuanDC.'
+          description: 'Domina el consumo de API REST con JavaScript. Aprende a optimizar el tiempo de carga de tu proyecto WebSysFaniMovies. Crea loading skeletons para mejorar la UX de tu aplicación, implementa scroll infinito y usa Local Storage para aumentar la velocidad de respuesta de tu aplicación junto a tu profesor JuanDC.'
         },
       ]
     },
@@ -155,7 +155,7 @@ export class BoardComponent {
         {
           id: '3',
           title: 'Curso Frontend Developer',
-          description: 'Domina las bases de HTML y CSS. Conoce la anatomía de un documento HTML, sus elementos y las propiedades de CSS. Maqueta las pantallas principales de tu página web con responsive design. ¡Conviertete en Frontend Developer con Platzi!'
+          description: 'Domina las bases de HTML y CSS. Conoce la anatomía de un documento HTML, sus elementos y las propiedades de CSS. Maqueta las pantallas principales de tu página web con responsive design. ¡Conviertete en Frontend Developer con WebSysFani!'
         },
         {
           id: '4',
